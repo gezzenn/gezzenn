@@ -3,7 +3,7 @@
 🎯 Passionate about programming, photo editing, and bringing ideas to life.  
 📚 Currently learning Java and exploring Python frameworks.  
 🤝 Open to collaborating on open-source and creative projects.  
-📬 Reach me at: [Seu e-mail ou redes sociais]  
+📬 Reach me at: grillogm11@gmail.com  
 🔹 Pronouns: He/Him  
 💡 Fun fact: I started coding at 8y and love building games with GML!  
 
